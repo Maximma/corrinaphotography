@@ -4302,12 +4302,12 @@ input, select, textarea {
 		#banner h1 {
 			border-bottom: 1px solid rgba(255, 255, 255, 0.25);
 			color: #ffffff;
-			font-size: 4.75rem;
+			font-size: 4.5rem;
 			margin: 0 auto;
 			padding-bottom: 3rem;
 			position: relative;
-			text-align-last: justify;
-			text-align: justify;
+			/*text-align-last: justify;*/
+			/*text-align: justify;*/
 			opacity: 0.95;
 		}
 
