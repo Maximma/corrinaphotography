@@ -4039,7 +4039,7 @@ input, select, textarea {
 	#banner {
 		background-color: #000000;
 		color: #ffffff;
-		align-items: center;
+		align-items: flex-end;
 		color: #ffffff;
 		display: flex;
 		justify-content: center;
@@ -4293,7 +4293,7 @@ input, select, textarea {
 			top: 0;
 			left: 0;
 			width: 100%;
-			height: 50%;
+			height: 10%;
 			pointer-events: none;
 			background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.325), rgba(0, 0, 0, 0));
 			z-index: 2;
